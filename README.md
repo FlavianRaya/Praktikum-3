@@ -1,5 +1,3 @@
-# Praktikum-3
-
 <img src="foto/banner.png" alt="Welcome Banner" width="100%"/>
 
 # Hallow, Everyone! 👋
