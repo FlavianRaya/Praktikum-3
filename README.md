@@ -2,9 +2,9 @@
 
 <img src="banner.png" alt="Welcome Banner" width="100%"/>
 
-# 🌸 Hallow, Everyone! 👋
+# Hallow, Everyone! 👋
 
-Perkenalkan, saya **Luh Eka Apriliani Putri** 🌼  
+Perkenalkan, saya **Flavian Vindraya Tantra** 🌼  
 Mahasiswa **Geofisika UGM, Semester 3** 🎓✨
 
 Saya menggunakan GitHub sebagai media untuk **praktikum Metode Komputasi**  
