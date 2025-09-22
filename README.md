@@ -39,9 +39,9 @@ dan ingin terus belajar **komputasi dalam bidang geofisika** 🌍⚡
 
 ## 📊 Statistik GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekapriliani&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavianRaya&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekapriliani&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavianRaya&layout=compact&theme=tokyonight)
 
 ---
 
